@@ -6,7 +6,7 @@ Tienda online de productos para desarrolladores, desarrollada con HTML5 y CSS3. 
 
 ## 🚀 Demo en vivo
 
-👉 [Ver proyecto](https://crissblock.github.io/REEMPLAZAR-CON-TU-URL)
+👉 [Ver proyecto](https://crissblock.github.io/Frontend_Store-HTML-CSS-Grid/)
 
 ---
 
