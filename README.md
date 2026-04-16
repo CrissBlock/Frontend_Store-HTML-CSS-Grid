@@ -12,8 +12,10 @@ Tienda online de productos para desarrolladores, desarrollada con HTML5 y CSS3. 
 
 ## 📸 Captura
 
-<!-- Reemplazá esta línea con tu captura una vez que la tengas -->
-![Frontend Store](img/preview.png)
+![Frontend Store](img/Captura1.png)
+![Frontend Store](img/Captura2.png)
+![Frontend Store](img/Captura3.png)
+![Frontend Store](img/Captura4.png)
 
 ---
 
